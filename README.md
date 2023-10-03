@@ -1,6 +1,6 @@
 # Barelang 7 - Center of Pressure on Humanoid Robot
 
-![cop calculate](https://github.com/charlierolando/b7-center-of-pressure-on-humanoid-robot/blob/main/images/readme_pic.png)
+![cop calculate](https://github.com/charlierolando/b7-center-of-pressure-on-humanoid-robot/blob/main/image/readme_pic.png)
 
 >See this video
 [Youtube](https://youtu.be/qt645hXIMIw?si=qu780gWqpU2X6UzU)
